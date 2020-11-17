@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\anast\Desktop\прока с++\6 лаба ааааа\6 лаба ааааа\Source.cpp(88,6): warning C4101: element: неиспользованная локальная переменная
+C:\Users\anast\Desktop\прока с++\6 лаба ааааа\6 лаба ааааа\Source.cpp(118): message : выполняется компиляция ссылки на экземпляр шаблон функции "void menu<int>(stack<int> &)"
+  6 лаба ааааа.vcxproj -> C:\Users\anast\Desktop\прока с++\6 лаба ааааа\Debug\6 лаба ааааа.exe
